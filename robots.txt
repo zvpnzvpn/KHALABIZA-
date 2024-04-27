@@ -1,0 +1,3 @@
+Disallow: /babysharkdudu.html
+Disallow: /pinkcoralreef
+Disallow: /bababubu.html
